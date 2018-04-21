@@ -22,5 +22,6 @@ from agreements.views import *
 urlpatterns = [
     path('', EdibleHome.index, name='index'),
     path('agreements/', include('agreements.urls')),
+    path('custom_auth/', include('custom_auth.urls')),
     path('admin/', admin.site.urls),
 ]
