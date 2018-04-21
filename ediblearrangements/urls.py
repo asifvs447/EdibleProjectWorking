@@ -16,8 +16,11 @@ Including another URLconf
 from django.contrib import admin
 
 from django.urls import path, include
+from django.conf.urls import include, url
 
+from agreements.views import *
 urlpatterns = [
+    path('', EdibleHome.index, name='index'),
     path('agreements/', include('agreements.urls')),
     path('admin/', admin.site.urls),
 ]
