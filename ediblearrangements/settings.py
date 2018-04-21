@@ -120,3 +120,4 @@ STATIC_URL = '/static/'
 STATIC_ROOT = 'static'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'remember')]
 
+LOGIN_URL = '/custom_auth/login/'

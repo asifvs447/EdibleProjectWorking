@@ -3,6 +3,8 @@
 from django.shortcuts import render, get_object_or_404
 
 from django.views.generic import ListView, CreateView
+from django.contrib.auth.decorators import login_required
+
 
 try:
     from StringIO import StringIO
@@ -24,25 +26,26 @@ class EdibleHome(ListView):
     # def signup(request):
     #     return render(request,'enrolled_form.html')
 
-    def agree1(request):
-        if request.method=='POST':
-            holiday=request.POST.get('Holiday'),
-            valentine= request.POST.get('Valentine'),
-            christmas= request.POST.get('Christmas')
-            context={
-            'myname':request.POST.get('myname'),
-            'start_date':request.POST.get('startdate'),
-            'end_date':request.POST.get('enddate'),
-            }
-            if holiday:
-                context['holiday']=holiday
-            if christmas:
-                context['christmas']=christmas
-            if valentine:
-                context['valentine']= valentine
-        if 'form_submited' in request.POST:
-            return render_to_pdf('agree.html', {'context': context})
-        return render(request, 'agree.html')
+@login_required
+def agree1(request):
+    if request.method=='POST':
+        holiday=request.POST.get('Holiday'),
+        valentine= request.POST.get('Valentine'),
+        christmas= request.POST.get('Christmas')
+        context={
+        'myname':request.POST.get('myname'),
+        'start_date':request.POST.get('startdate'),
+        'end_date':request.POST.get('enddate'),
+        }
+        if holiday:
+            context['holiday']=holiday
+        if christmas:
+            context['christmas']=christmas
+        if valentine:
+            context['valentine']= valentine
+    if 'form_submited' in request.POST:
+        return render_to_pdf('agree.html', {'context': context})
+    return render(request, 'agree.html')
 
 
 def render_to_pdf(template_src, context_dict={}):

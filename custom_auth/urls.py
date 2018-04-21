@@ -6,4 +6,5 @@ app_name='custom_auth'
 
 urlpatterns =[
     path('signup/', CustomAuthMain.signup, name='employeeSignup'),
+    path('login/', login, name='employeeLogin'),
     ]
