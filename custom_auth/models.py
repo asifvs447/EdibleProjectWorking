@@ -18,4 +18,9 @@ class LoginPin(models.Model):
         super(LoginPin, self).save(*args, **kwargs)
 
     def __str__(self):
-        return self.key
+        status = ''
+        if self.expired:
+            status = 'expired'
+        else:
+            status = 'active'
+        return 'Pin: ' + self.key + ' | Status: ' + status
