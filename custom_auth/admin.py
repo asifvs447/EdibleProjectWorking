@@ -1,3 +1,8 @@
 from django.contrib import admin
+from .models import LoginPin
 
-# Register your models here.
+class LoginPinAdmin(admin.ModelAdmin):
+    readonly_fields = ('key', 'expired')
+
+
+admin.site.register(LoginPin, LoginPinAdmin)
