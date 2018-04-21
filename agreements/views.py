@@ -20,6 +20,10 @@ class EdibleHome(ListView):
     def index(request):
         return render(request, 'remember/index.html')
 
+    #
+    # def signup(request):
+    #     return render(request,'enrolled_form.html')
+
     def agree1(request):
         if request.method=='POST':
             holiday=request.POST.get('Holiday'),

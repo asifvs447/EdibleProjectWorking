@@ -1,0 +1,181 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Remember - Multipurpose bootstrap site template</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Your page description here" />
+  <meta name="author" content="" />
+
+  <!-- css -->
+  <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" />
+  <link href="{% static 'css/bootstrap-responsive.css' %}" rel="stylesheet" />
+  <link href="{% static 'css/prettyPhoto.css' }" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+  {% load static %}
+  <link href="{% static 'css/style.css' %}" rel="stylesheet">
+
+  <!-- Theme skin -->
+  <link id="t-colors" href="{% static 'color/default.css' %}" rel="stylesheet" />
+
+  <!-- Fav and touch icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png" />
+  <link rel="shortcut icon" href="ico/favicon.png" />
+
+  <!-- =======================================================
+    Theme Name: Remember
+    Theme URL: https://bootstrapmade.com/remember-free-multipurpose-bootstrap-template/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+</head>
+
+<body>
+  <div id="wrapper">
+    <!-- start header -->
+    <header>
+      <div class="top">
+        <div class="container">
+          <div class="row">
+            <div class="span6">
+              <ul class="topmenu">
+                <li><a href="#">Home</a> &#47;</li>
+                <li><a href="#">Terms</a> &#47;</li>
+                <li><a href="#">Privacy policy</a></li>
+              </ul>
+            </div>
+            <div class="span6">
+
+              <ul class="social-network">
+                <li><a href="#" data-placement="bottom" title="Facebook"><i class="icon-circled icon-bglight icon-facebook"></i></a></li>
+                <li><a href="#" data-placement="bottom" title="Twitter"><i class="icon-circled icon-bglight icon-twitter"></i></a></li>
+                <li><a href="#" data-placement="bottom" title="Linkedin"><i class="icon-circled icon-linkedin icon-bglight"></i></a></li>
+                <li><a href="#" data-placement="bottom" title="Pinterest"><i class="icon-circled icon-pinterest  icon-bglight"></i></a></li>
+                <li><a href="#" data-placement="bottom" title="Google +"><i class="icon-circled icon-google-plus icon-bglight"></i></a></li>
+              </ul>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+
+
+        <div class="row nomargin">
+          <div class="span4">
+            <div class="logo">
+              <h1><a href="{% url 'index' %}"><i class="icon-tint"></i> Choudry Enterprises</a></h1>
+            </div>
+          </div>
+          <div class="span8">
+            <div class="navbar navbar-static-top">
+              <div class="navigation">
+                <nav>
+                  <ul class="nav topnav">
+                    <li class="active">
+                      <a href="{% url 'index' %}">Home</a>
+                    </li>
+                    <li class="dropdown">
+                      <a href="#">Features <i class="icon-angle-down"></i></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="typography.html">Typography</a></li>
+                        <li><a href="components.html">Components</a></li>
+                        <li><a href="icons.html">Icons</a></li>
+                        <li><a href="icon-variations.html">Icon variations</a></li>
+
+                      </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a href="#">Pages <i class="icon-angle-down"></i></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="about.html">About us</a></li>
+                        <li><a href="pricingbox.html">Pricing boxes</a></li>
+                        <li><a href="404.html">404</a></li>
+                      </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a href="#">Portfolio <i class="icon-angle-down"></i></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="portfolio-2cols.html">Portfolio 2 columns</a></li>
+                        <li><a href="portfolio-3cols.html">Portfolio 3 columns</a></li>
+                        <li><a href="portfolio-4cols.html">Portfolio 4 columns</a></li>
+                        <li><a href="portfolio-detail.html">Portfolio detail</a></li>
+                      </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a href="#">New Hire <i class="icon-angle-down"></i></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="{% url 'agreements:agreehtml'%}">Sign Agreements</a></li>
+                        <li><a href="blog-right-sidebar.html">Blog right sidebar</a></li>
+                        <li><a href="post-left-sidebar.html">Post left sidebar</a></li>
+                        <li><a href="post-right-sidebar.html">Post right sidebar</a></li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="contact.html">Contact </a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              <!-- end navigation -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- end header -->
+    <section id="content">
+      <div class="container">
+
+
+        <form name="form_submited" method="post">
+    {% csrf_token %}
+    <p>Temporary Seasonal/Holiday Employee Acknowledgement</p>
+    <p>I, <input type="text" name="myname" /> {{ context.myname }}  the undersigned, do herby acknowledge that I
+am being hired on as a temporary seasonal/holiday employee of Choudhry Enterprises/H&IC Bros DBA:
+Edible Arrangements. I understand that this is a temporary position for the holiday indicated below. I also
+understand that once the holiday season has come to an end I will no longer be on the schedule.
+    </p>
+    <p>Select
+    <li><INPUT TYPE="Checkbox" Name="Holiday"> Holiday {{ context.holiday }}</li>
+    <li><INPUT TYPE="Checkbox" Name="Valentine">Valentine {{ context.valentine }}</li>
+    <li><INPUT TYPE="Checkbox" Name="Christmas"> Christmas {{ context.christmas }}</li></p>
+    <p>
+Start Date <input type="date" name="startdate" > {{context.start_date}}
+        End Date<input type="date" name="enddate">{{context.end_date}}</p>
+    <p>
+I am aware that the  cycle for the week starts on Sunday and closes on Saturday, and that I will be paid
+for all of my wages at the end of the holiday cycle, with the pay date dependent upon the date of the
+holiday.
+**All temporary employees have the opportunity to be hired on as a permanent employee based upon
+their performance evaluation and the needs of the store they are working in. This will be determined
+        at the end of the holiday season by the store manager on a case by case basis.</p>
+    <input type="submit" name='form_submited' value="submit"/>
+</form>
+  <a href="#" class="scrollup"><i class="icon-angle-up icon-rounded icon-bglight icon-2x"></i></a>
+
+  <!-- javascript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="{% static 'js/jquery.js' %}"></script>
+  <script src="{% static 'js/jquery.easing.1.3.js' %}"></script>
+  <script src="{% static 'js/bootstrap.js' %}"></script>
+  <script src="{% static 'js/modernizr.custom.js' %}"></script>
+  <script src="{% static 'js/toucheffects.js' %}"></script>
+  <script src="{% static 'js/google-code-prettify/prettify.js' %}"></script>
+  <script src="{% static 'js/jquery.prettyPhoto.js' %}"></script>
+  <script src="{% static 'js/portfolio/jquery.quicksand.js' %}"></script>
+  <script src="{% static 'js/portfolio/setting.js' %}"></script>
+  <script src="{% static 'js/animate.js' %}"></script>
+
+  <!-- Template Custom JavaScript File -->
+  <script src="{% static 'js/custom.js' %}"></script>
+
+</body>
+
+</html>
