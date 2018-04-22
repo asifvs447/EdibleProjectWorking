@@ -56,7 +56,7 @@ ROOT_URLCONF = 'ediblearrangements.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['remember'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

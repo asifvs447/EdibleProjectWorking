@@ -19,10 +19,10 @@ class CustomAuthMain(ListView):
 
 
     def signup(request):
-        return render(request,'enrolled_form.html')
+        return render(request,'register/register.html')
 
 
 def login(request):
     if request.method == 'POST':
         pass
-    return render(request, 'enrolled_form.html')
+    return render(request, 'login/login.html')

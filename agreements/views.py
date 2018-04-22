@@ -4,7 +4,7 @@ from django.shortcuts import render, get_object_or_404
 
 from django.views.generic import ListView, CreateView
 from django.contrib.auth.decorators import login_required
-
+import os, sys
 
 try:
     from StringIO import StringIO
@@ -20,7 +20,7 @@ from xhtml2pdf import pisa
 
 class EdibleHome(ListView):
     def index(request):
-        return render(request, 'remember/index.html')
+        return render(request, 'index.html')
 
     #
     # def signup(request):

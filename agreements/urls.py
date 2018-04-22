@@ -5,5 +5,6 @@ from .views import *
 app_name='agreements'
 
 urlpatterns =[
-    path('agreehtml/', agree1, name='agreehtml'),
+    path('', agree1, name='agreehtml'),
+    path('signcontract/', agree1, name='agreehtml'),
 ]
