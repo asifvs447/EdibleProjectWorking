@@ -10,11 +10,13 @@ class LoginPin(models.Model):
         return uuid.uuid4().hex[:6].upper()
 
     def save(self, *args, **kwargs):
-        while True:
-            key = self.make_key() 
-            if not LoginPin.objects.filter(key=key).exists():
-                break
-        self.key = key
+        is_existing_object = True if self.pk else False
+        if not is_existing_object:
+            while True:
+                key = self.make_key() 
+                if not LoginPin.objects.filter(key=key).exists():
+                    break
+            self.key = key
         super(LoginPin, self).save(*args, **kwargs)
 
     def __str__(self):
