@@ -69,5 +69,25 @@ class CustomAuthMain(ListView):
 
 def login(request):
     if request.method == 'POST':
-        pass
-    return render(request, 'login/login.html')
+        username = request.POST.get('username')
+        password = request.POST.get('password')
+
+        user = auth.authenticate(username=username, password=password)
+        next_url = request.POST.get('next_url')
+        if user is not None:
+            auth.login(request, user)
+
+            if not next_url == 'None':
+                return HttpResponseRedirect(next_url)
+            else:
+                # redirect user to homepage if it's a normal signin
+                return HttpResponseRedirect('/')
+
+        else:
+            return render(request, 'login/login.html',
+                          {'error': 'Invalid username/password',
+                           'next_url': next_url})
+
+    next_url = request.GET.get('next')
+    return render(request, 'login/login.html',
+                  {'next_url': next_url})

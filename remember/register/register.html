@@ -37,11 +37,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				{% if error %}
 					<p style="color: red;">{{error}}</p>
 				{% endif %}
-		<div class="sub-main">	
+		<div class="sub-main">
 
 			<form method="post">
 				{% csrf_token %}
-				
 				<input placeholder="Unique Pin" name="unique_pin" class="unique_pin" type="text" required="">
 					<span class="icon1"><i class="fa unique_pin-user" aria-hidden="true"></i></span><br>
 				<input placeholder="First Name" name="first_name" class="name" type="text" required="">
