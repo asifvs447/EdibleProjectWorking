@@ -3,720 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="50aaece9-52ec-4cea-a20c-c5b444801e84" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/autocomplete.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/changelists.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/responsive_rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/fonts/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/fonts/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/fonts/Roboto-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/fonts/Roboto-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/fonts/Roboto-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/calendar-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/gis/move_vertex_off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/gis/move_vertex_on.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-addlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-alert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-changelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-clock.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-deletelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-no.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-unknown-alt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-unknown.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/icon-yes.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/inline-delete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/selector-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/sorting-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/tooltag-add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/img/tooltag-arrowright.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/SelectBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/SelectFilter2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/actions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/autocomplete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/change_form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/collapse.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/inlines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/inlines.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/jquery.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/popup_response.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/prepopulate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/prepopulate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/prepopulate_init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/timeparse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/urlify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/jquery/LICENSE-JQUERY.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/km.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/ms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/sr-Cyrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/i18n/zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/select2.full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/select2/select2.full.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/agree.html" beforeDir="false" afterPath="$PROJECT_DIR$/agreements/templates/agree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/enrolled_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/agreements/templates/enrolled_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/blog-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/blog-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/cocoa.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/jeans.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/retro.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/romantic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/stamp.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/color/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/components.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/contactform/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/contactform/contactform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/bootstrap-responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/custom-fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/font-awesome-ie7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/overwrite.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/prettyPhoto.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/shortcodes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/customicon/Icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/customicon/Icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/customicon/Icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/customicon/Icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/ico/apple-touch-icon-114-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/ico/apple-touch-icon-144-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/ico/apple-touch-icon-57-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/ico/apple-touch-icon-72-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/ico/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/icon-variations.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/bg_direction_nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/65x65/thumb1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/65x65/thumb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/65x65/thumb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/thumbs/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/thumbs/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/thumbs/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/thumbs/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/thumbs/no-thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/thumbs/quote-thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/blog/thumbs/small1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/dummy-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/team1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/team2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/team3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/team4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/testimonial-author1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/dummies/works/big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/glyphicons-halflings-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/glyphicons-halflings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/header-pattern-150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/intro-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/pattern/pat-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_rounded/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_square/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_square/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/dark_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/default/default_thumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/default/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/default/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/default/sprite_next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/default/sprite_prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/default/sprite_x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/default/sprite_y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/facebook/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_rounded/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_square/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/prettyPhoto/light_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/img/top-pattern-150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/animate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/google-code-prettify/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/google-code-prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/jquery-transit-modified.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/jquery.easing.1.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/jquery.prettyPhoto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/modernizr.custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/portfolio/jquery.quicksand.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/portfolio/setting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/js/toucheffects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/portfolio-2cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/portfolio-3cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/portfolio-4cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/portfolio-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/post-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/post-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/pricingbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/templates/remember/typography.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/agreements/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agreements/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/agreements/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/agree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/agreements/enrolled_form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/agreements/form-template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/blog-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/blog-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/cocoa.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/jeans.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/retro.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/romantic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/stamp.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/color/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/components.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/contactform/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/contactform/contactform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/bootstrap-responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/custom-fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/font-awesome-ie7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/overwrite.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/prettyPhoto.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/shortcodes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/customicon/Icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/customicon/Icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/customicon/Icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/customicon/Icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/ico/apple-touch-icon-114-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/ico/apple-touch-icon-144-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/ico/apple-touch-icon-57-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/ico/apple-touch-icon-72-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/ico/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/icon-variations.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/bg_direction_nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/65x65/thumb1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/65x65/thumb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/65x65/thumb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/thumbs/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/thumbs/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/thumbs/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/thumbs/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/thumbs/no-thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/thumbs/quote-thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/blog/thumbs/small1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/dummy-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/team1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/team2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/team3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/team4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/testimonial-author1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/dummies/works/big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/glyphicons-halflings-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/glyphicons-halflings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/header-pattern-150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/intro-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/pattern/pat-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_rounded/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_square/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_square/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/dark_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/default/default_thumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/default/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/default/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/default/sprite_next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/default/sprite_prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/default/sprite_x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/default/sprite_y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/facebook/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_rounded/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_square/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/prettyPhoto/light_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/img/top-pattern-150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/animate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/google-code-prettify/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/google-code-prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/jquery-transit-modified.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/jquery.easing.1.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/jquery.prettyPhoto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/modernizr.custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/portfolio/jquery.quicksand.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/portfolio/setting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/js/toucheffects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/portfolio-2cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/portfolio-3cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/portfolio-4cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/portfolio-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/post-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/post-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/pricingbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/templates/remember/typography.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_auth/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/custom_auth/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ediblearrangements/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ediblearrangements/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/blog-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/blog-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/blog-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/blog-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/components.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/fonts/customicon/Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/remember/fonts/customicon/Icons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/fonts/customicon/Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/remember/fonts/customicon/Icons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/fonts/customicon/Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/remember/fonts/customicon/Icons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/fonts/fontawesome/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/remember/fonts/fontawesome/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/remember/fonts/fontawesome/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/remember/fonts/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/remember/fonts/fontawesome/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/icon-variations.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/icon-variations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/icons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/portfolio-2cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/portfolio-2cols.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/portfolio-3cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/portfolio-3cols.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/portfolio-4cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/portfolio-4cols.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/portfolio-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/portfolio-detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/post-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/post-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/post-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/post-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/pricingbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/pricingbox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remember/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/remember/typography.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/autocomplete.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/responsive_rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/fonts/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-no.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/actions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/autocomplete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/change_form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/collapse.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/inlines.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/jquery.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/popup_response.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/timeparse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/km.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/select2.full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/select2.full.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blog-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blog-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/cocoa.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/jeans.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/retro.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/romantic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/stamp.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/color/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/components.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/contactform/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/contactform/contactform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/custom-fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/font-awesome-ie7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/overwrite.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/prettyPhoto.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/shortcodes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/customicon/Icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/customicon/Icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/customicon/Icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/customicon/Icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ico/apple-touch-icon-114-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ico/apple-touch-icon-144-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ico/apple-touch-icon-57-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ico/apple-touch-icon-72-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ico/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/icon-variations.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/bg_direction_nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/65x65/thumb1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/65x65/thumb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/65x65/thumb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/thumbs/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/thumbs/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/thumbs/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/thumbs/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/thumbs/no-thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/thumbs/quote-thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/blog/thumbs/small1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/dummy-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/team1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/team2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/team3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/team4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/testimonial-author1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/dummies/works/big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/glyphicons-halflings-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/glyphicons-halflings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/header-pattern-150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/intro-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/pattern/pat-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_rounded/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_square/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_square/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/dark_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/default/default_thumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/default/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/default/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/default/sprite_next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/default/sprite_prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/default/sprite_x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/default/sprite_y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/facebook/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_rounded/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_square/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/prettyPhoto/light_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/top-pattern-150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/animate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/google-code-prettify/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/google-code-prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/jquery-transit-modified.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/jquery.prettyPhoto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/modernizr.custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/portfolio/jquery.quicksand.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/portfolio/setting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/toucheffects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/portfolio-2cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/portfolio-3cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/portfolio-4cols.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/portfolio-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/post-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/post-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/pricingbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/typography.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -730,14 +16,12 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remember/login/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1150">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="18">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#2137#2144#1" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#2;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -747,8 +31,17 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/remember/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="247">
+              <caret line="1113" lean-forward="true" selection-start-line="1113" selection-end-line="1113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -756,8 +49,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/custom_auth/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="18">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -780,8 +73,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remember/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="81" column="64" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="64" />
+            <state relative-caret-position="144">
+              <caret line="88" column="34" lean-forward="true" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -819,6 +112,9 @@
       <find>blog</find>
       <find>open</find>
       <find>login</find>
+      <find>Login</find>
+      <find>js</find>
+      <find>exampleModal</find>
     </findStrings>
     <replaceStrings>
       <replace>Choudry Enterprises</replace>
@@ -858,14 +154,15 @@
         <option value="$PROJECT_DIR$/custom_auth/views.py" />
         <option value="$PROJECT_DIR$/remember/login/login.html" />
         <option value="$PROJECT_DIR$/remember/index.html" />
+        <option value="$PROJECT_DIR$/remember/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1705" />
-    <option name="y" value="74" />
-    <option name="width" value="1151" />
-    <option name="height" value="654" />
+    <option name="x" value="1637" />
+    <option name="y" value="123" />
+    <option name="width" value="1161" />
+    <option name="height" value="662" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -913,7 +210,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/popup-box/index.html" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Remember" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -955,13 +252,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="-2" width="1920" height="1082" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23787528" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -975,27 +271,63 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/remember/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_auth/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_auth/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="e#35#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remember/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="81" column="64" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remember/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/agreements/templates/base.html" />
-    <entry file="file://$PROJECT_DIR$/agreements/templates/remember/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/agreements/templates/remember/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
-          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/agreements/templates/remember/about.html" />
+    <entry file="file://$PROJECT_DIR$/agreements/templates/remember/contact.html" />
     <entry file="file://$PROJECT_DIR$/.ebextensions/django.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1032,25 +364,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/agreements/templates/remember/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="70" column="99" selection-start-line="70" selection-start-column="99" selection-end-line="70" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/ico/apple-touch-icon-114-precomposed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/ico/apple-touch-icon-72-precomposed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/ico/apple-touch-icon-144-precomposed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/ico/apple-touch-icon-57-precomposed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/agreements/templates/remember/index.html" />
     <entry file="file://$PROJECT_DIR$/remember/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -1062,26 +376,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#652#684#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remember/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="60" column="57" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom_auth/templates/agree.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/remember/base.html" />
+    <entry file="file://$PROJECT_DIR$/custom_auth/templates/agree.html" />
     <entry file="file://$PROJECT_DIR$/remember/css/prettyPhoto.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
@@ -1096,30 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remember/img/prettyPhoto/facebook/sprite.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/img/prettyPhoto/facebook/loader.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/img/prettyPhoto/facebook/default_thumbnail.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/img/prettyPhoto/facebook/contentPatternTop.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/img/prettyPhoto/facebook/contentPatternRight.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/img/prettyPhoto/facebook/contentPatternLeft.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/img/prettyPhoto/facebook/contentPatternBottom.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/img/prettyPhoto/facebook/btnPrevious.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/agreements/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -1127,16 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom_auth/templates/agreements/enrolled_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_auth/templates/agreements/enrolled_form.html" />
     <entry file="file://$PROJECT_DIR$/agreements/templates/agree.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -1144,13 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remember/register/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/remember/register/index.html" />
     <entry file="file://$PROJECT_DIR$/remember/agree.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -1158,13 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remember/enrollment_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="144" column="46" selection-start-line="144" selection-start-column="46" selection-end-line="144" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/remember/enrollment_form.html" />
     <entry file="file://$PROJECT_DIR$/ediblearrangements/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1176,9 +430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="e#2#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1186,9 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#35#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1199,20 +447,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remember/login/login_js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/login/login_css.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/remember/login/login_js.html" />
+    <entry file="file://$PROJECT_DIR$/remember/login/login_css.html" />
     <entry file="file://$PROJECT_DIR$/remember/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1220,31 +456,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remember/login/test.html">
+    <entry file="file://$PROJECT_DIR$/remember/login/test.html" />
+    <entry file="file://$PROJECT_DIR$/remember/login/login_style.css" />
+    <entry file="file://$PROJECT_DIR$/remember/login/login_style.js" />
+    <entry file="file://$USER_HOME$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="180">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/popup-box/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
-          <caret line="130" column="7" lean-forward="true" selection-end-line="132" />
+        <state relative-caret-position="545">
+          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remember/login/login_style.css">
+    <entry file="file://$PROJECT_DIR$/remember/login/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remember/login/login_style.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="18">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1260,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/custom_auth/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="18">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -1270,30 +508,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/remember/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="81" column="64" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="64" />
+        <state relative-caret-position="144">
+          <caret line="88" column="34" lean-forward="true" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remember/login/login.html">
+    <entry file="file://$USER_HOME$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1150">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2137#2144#1" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="234">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/remember/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="247">
+          <caret line="1113" lean-forward="true" selection-start-line="1113" selection-end-line="1113" />
         </state>
       </provider>
     </entry>
